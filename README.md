@@ -25,3 +25,7 @@ n+ (n-1)+(n-2)+1= (n*(n+1))/2 --> O(n^2)<br/>
 [16][11,21]                         [8,12][22]<br/>
 [11,16,21]                             [8,12,22]<br/>
                  [8,11,12,16,21,22]<br/>
+
+#Binary Search Tree<br/>
+![Binary Search Tree](https://github.com/user-attachments/assets/a91aeabc-8af1-4c60-b17e-2f0ff154c580)
+                 
